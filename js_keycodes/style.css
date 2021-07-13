@@ -1,0 +1,27 @@
+body{
+    background-color: #8BB174;
+}
+.intro {
+    color: #FFFFFF;
+}
+.section-header{
+    text-align: center;
+}
+
+.card-white {
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 10px 11px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding-top: 30px;
+    margin-right: 20%;
+    margin-left: 20%;
+    max-height: 150px;
+    height: 150px;
+}
+
+.keycode-stroke{
+    color: #048BA8;
+    font-weight: bolder;
+    font-size: 70px;
+}
